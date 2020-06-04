@@ -1,0 +1,1 @@
+print("I'm developing the function 2 for this project!")
